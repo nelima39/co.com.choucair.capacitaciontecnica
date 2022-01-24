@@ -9,7 +9,7 @@ en la academia choucair con el curso de automatizacion
   Escenario: Burcar un curso de automatizacion
     Dado que Neyla quiere aprender automatizacion en la academia Choucair
       | usuario    | password   |
-      | nmartinezd | F62856far1 |
+      | nmartinezd | Choucar2022* |
     Cuando el busca el curso en la plataforma de la academia Choucair
       | course                    |
       | Automatización de Pruebas |
